@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">EstudiantesAle</string>
+    <string name="txt_version">UdelP Estudiantes v0.1</string>
+    <string name="txt_home">Inicio</string>
+    <string name="txt_detail">Detalle</string>
+    <string name="txt_list">Lista para ver detalle</string>
+    <string name="txt_list_view">Ver lista detalle</string>
+    <string name="txt_list_view_edit">Ver lista editar/eliminar</string>
+    <string name="txt_exit">Salir</string>
+    <string name="txt_exampleIfRoom">ifRoom</string>
+    <string name="txt_my_form">Mi Formulario</string>
+    <string name="hint_name">Escribe tu nombre</string>
+    <string name="hint_last_name">Escribe tus apellidos</string>
+    <string name="txt_unfinised_studies">Trunco</string>
+    <string name="txt_university_intent">Pasante</string>
+    <string name="txt_finished_studies">Titulado</string>
+    <string name="txt_read">Lectura</string>
+    <string name="txt_travel">Viajar</string>
+    <string name="txt_sport">Deporte</string>
+    <string name="txt_image_description">load</string>
+    <string name="txt_financial_help">¿Tiene asistencia financiera?</string>
+    <string name="txt_ok">Aceptar</string>
+    <string name="txt_delete">Eliminar</string>
+    <string name="txt_list_edit_delte">Lista para eliminar/editar</string>
+    <string name="txt_save">Guardar</string>
+    <string name="txt_edit">Editar</string>
+    <string name="txt_my_form_edit">Editar Estudiante</string>
+    <string name="txt_recycler">Recycler View</string>
+    <string name="txt_recycler_view">Ver recycler view</string>
+    <string name="hint_date">Click para ingresar la fecha</string>
+</resources>
